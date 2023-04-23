@@ -79,7 +79,7 @@ param
     [switch]$no_shortcut,
 
     [Parameter(HelpMessage = 'Static color for lyrics.')]
-    [string]$lyrics_stat,
+    [string]$lyrics_stat_radium,
 
     [Parameter(HelpMessage = 'Accumulation of track listening history with Goofy.')]
     [string]$urlform_goofy = $null,
